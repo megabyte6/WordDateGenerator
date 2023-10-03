@@ -1,9 +1,9 @@
 # Word Date Generator
 
-![Main screen of the app](/images/main-screen.png)
-
 ## About
 This is a Python project that generates a Word document with a table of dates. The user can select a start date and an end date, and the program will generate a table with all the dates in between. The user can then save the table as a Word document.
+
+![Main screen of the app](/images/main-screen.png)
 
 ## Build
 1. Requires Python >=`3.11`
